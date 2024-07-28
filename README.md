@@ -1,1 +1,1 @@
-My vscode settings and keybindings.
+My vscode settings and keybindings for vim.
